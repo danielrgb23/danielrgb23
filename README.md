@@ -19,3 +19,11 @@
 </div>
   
   ##
+  
+  ### :rocket: Redes sociais
+  
+  <div>
+    <a href="https://www.linkedin.com/in/daniel-augusto02/" target="_blank"><img src="https://img.icons8.com/carbon-copy/100/000000/linkedin.png" target="_blank"></a>
+    <a href="https://github.com/danielrgb23" target="_blank"><img src="https://img.icons8.com/ios-filled/80/000000/github.png"  target="_blank"></a>
+    <a href="https://www.instagram.com/danielrgb23/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new--v1.png"  target="_blank"></a>
+  </div>
