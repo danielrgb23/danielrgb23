@@ -1,4 +1,4 @@
-### Ola eu sou o Daniel Augusto, desenvolvedor júnior front-end e entusiasta dos estudos em programaçao!
+### Olá eu sou o Daniel Augusto, desenvolvedor júnior front-end e entusiasta dos estudos em programação!
 
 
 <div align="center">
