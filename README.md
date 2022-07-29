@@ -14,16 +14,19 @@
   <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dani-SCSS" height="30" width="40" src="https://user-images.githubusercontent.com/69088854/178595376-bec7334f-9910-447f-be27-863d7f84c85a.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-  src="https://github.githubassets.com/images/mona-whisper.gif">
+  <img align="center" alt="git" width="40" height="30" src="http://www.appcoda.com/wp-content/uploads/2015/04/react-native.png" >
 </div>
   
   ##
   
   ### :rocket: Redes sociais
   
-  <div>
-    <a href="https://www.linkedin.com/in/daniel-augusto02/" target="_blank"><img src="https://img.icons8.com/carbon-copy/100/000000/linkedin.png" target="_blank"></a>
-    <a href="https://github.com/danielrgb23" target="_blank"><img src="https://img.icons8.com/ios-filled/80/000000/github.png"  target="_blank"></a>
-    <a href="https://www.instagram.com/danielrgb23/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new--v1.png"  target="_blank"></a>
-  </div>
+ <a href="https://github.com/danielrgb23" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.instagram.com/danielrgb23/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/daniel-augusto02/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
