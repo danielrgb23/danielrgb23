@@ -3,7 +3,7 @@ Daniel Augusto</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
 <h3 align="center">A passionate Front-End from Olinda-PE, Brazil.</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g"/>
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47dvbadd2x1qxrv67gv6nkc2qxst0sjd5d4jo01p3h&rid=giphy.gif&ct=g"/>
 </a>
 
 
