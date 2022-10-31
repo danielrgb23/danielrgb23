@@ -33,7 +33,7 @@ Daniel Augusto</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
  <div align="center">
         <a style="margin-left: 10px;"  target="_blank" href="">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stephani-engel.netlify.app/">
+		<a style="margin-left: 10px;" target="_blank" href="https://portifolio-daniel.vercel.app/portfolios">
 		
 
       </div>
