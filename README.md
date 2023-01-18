@@ -1,38 +1,32 @@
-<h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>, I'm <a href="https://github.com/danielrgb23?tab=repositories/" target="blank">
-Daniel Augusto</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
-<h3 align="center">A passionate Front-End from Olinda-PE, Brazil.</h3>
+### Hello I'm Daniel Augusto
+<hr>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47dvbadd2x1qxrv67gv6nkc2qxst0sjd5d4jo01p3h&rid=giphy.gif&ct=g"/>
+- 🔭 Trabalho como Front-end Developer na Dopster.io.
+- 🌱 Estou atualmente aprendendo Flutter/Dart
+- 😄 Tenho conhecimento amplo em React | Next | Dart/Flutter
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=danielrgb23&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+
+<!-- Tecnologis que domino -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width ="25"><b> Tech Stack</b>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,javascript,typescript,git,vscode,css,html,tailwind,sass,bootstrap" />
 </a>
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="35"><b> GitHub Stats</b>
+<br>
+<img src="./profile-3d-contrib/profile-night-green.svg" />
+<br>
 
 
-- 🔭 I'm currently Working on Dopster.io <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg" width="25" height="18"/>
+<!-- Endereços para contato -->
 
-- 🌱 I have been concentrating on ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning about front-end on <a href="https://app.rocketseat.com.br/me/danilergb2" target="blank">RocketSeat</a>
-
-- 📫 How to reach me: *danielrgb2@gmail.com*
-
-- 💬 Ask me about *Reactjs & JavaScript*
-  <summary>☎️ contact me
-        <a href="#" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="18"/></a></summary>
-
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/> </h3>
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-</div>
-
-<p align="center">
-
- <div align="center">
-        <a style="margin-left: 10px;"  target="_blank" href="">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/daniel-augusto02/">
-		
-      </div>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" align="center" width ="50"><b>Let's Connect!</b>
+<br>
+<div> 
+<a href="https://www.linkedin.com/in/daniel-augusto02/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a target='_blank' href = "danielrgb2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
