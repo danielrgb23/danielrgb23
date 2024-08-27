@@ -1,7 +1,7 @@
 ### Hello I'm Daniel Augusto
 <hr>
 
-- 🔭 Trabalho como Mobile Developer na Dopster.io.
+- 🔭 Trabalho como Mobile/Web Software Developer.
 - 🌱 Estou atualmente aprendendo testes em Flutter e Kotlin
 - 😄 Tenho conhecimento amplo em React | Next | Dart/Flutter
 
