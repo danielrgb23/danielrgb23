@@ -4,7 +4,7 @@
 
 ```js
 const daniel = {
-  name: "Daniel Augusto",
+  name: "Daniel Jasmelino",
   role: "Mobile Software Engineer",
   location: "Recife, PE - Brasil",
   company: "Karrera AI",
